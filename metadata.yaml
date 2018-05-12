@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6549'
     url: http://www.gutenberg.org/2009/agents/6549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16230#Fat-and-BloodAn-Essay-on-the-Treatment-of-Certain-Forms-of-Neurasthenia-and-Hysteria
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
